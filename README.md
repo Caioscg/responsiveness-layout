@@ -19,12 +19,12 @@ A basic development of a responsiveness layout website.
 
 <p align="center">
     <h1 align="center"> Desktop </h1>
-  <img src="./.github/preview-desktop.jpg" alt="" width="100%">
+  <img src="./.github/preview-desktop.jfif" alt="" width="100%">
 </p>
 
 <p align="center">
     <h1 align="center"> Mobile </h1>
-  <img src="./.github/preview-mobile.jpg" alt="" width="100%">
+  <img src="./.github/preview-mobile.jfif" alt="" width="100%">
 </p>
 
 ## 🛠️ Technologies
