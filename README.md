@@ -37,8 +37,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-- With this game you can play TicTacToe with your friend (local) or against the AI.
-- If you find any bug or no-sense play, tell me!
+- Just practicing!
 
 ## 🌐 Site
 
