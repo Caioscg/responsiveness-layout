@@ -32,7 +32,7 @@ A basic development of a responsiveness layout website.
 This project was developed with the following technologies:
 
 - HTML and CSS
-- JavaScript
+- Figma
 - Git and Github
 
 ## 💻 Project
